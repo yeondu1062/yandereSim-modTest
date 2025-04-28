@@ -4,5 +4,5 @@
 ## 이미지
 ![DebugTest](https://github.com/user-attachments/assets/8962765a-15d0-42a4-b04b-ba7e4743eb2a)
 
-## 원본코드
+## 얀시뮬 디컴파일 코드
 https://github.com/LordEnma/YandereSimulatorDecompiled/blob/main/Assembly-CSharp
